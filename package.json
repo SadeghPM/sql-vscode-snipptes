@@ -1,0 +1,21 @@
+{
+    "name": "sql-snippets",
+    "displayName": "SQL Snippets",
+    "description": "SQL snippets",
+    "version": "0.0.1",
+    "publisher": "sadeghpm",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "sql",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
