@@ -2,9 +2,13 @@
     "name": "sql-snippets",
     "displayName": "SQL Snippets",
     "description": "SQL snippets",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "sadeghpm",
-    "repository": { "type": "git", "url": "https://github.com/SadeghPM/sql-vscode-snipptes.git" },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SadeghPM/sql-vscode-snipptes.git"
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
