@@ -2,7 +2,7 @@
     "name": "sql-snippets",
     "displayName": "SQL Snippets",
     "description": "SQL snippets",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "sadeghpm",
     "repository": {
         "type": "git",
