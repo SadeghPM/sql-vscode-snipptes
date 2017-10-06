@@ -4,6 +4,7 @@ An SQL Snippets based on [MySQL Snippets - Sublime Plugin](https://github.com/an
 
 I just converted it ,all appreciate goes to [Anton Korniychuk](https://github.com/ancor-dev)
 
+![sample](./sample.gif)
 
 ## What's included - contents
 - [Database](#database)

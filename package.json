@@ -4,6 +4,7 @@
     "description": "SQL snippets",
     "version": "0.0.1",
     "publisher": "sadeghpm",
+    "repository": { "type": "git", "url": "https://github.com/SadeghPM/sql-vscode-snipptes.git" },
     "engines": {
         "vscode": "^1.13.0"
     },
