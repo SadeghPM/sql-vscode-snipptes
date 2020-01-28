@@ -1,6 +1,6 @@
 # SQL Snippets
 
-An SQL Snippets based on [MySQL Snippets - Sublime Plugin](https://github.com/ancor-dev/sublime-sql-snippets)
+An SQL Snippets based on [MySQL Snippets - Sublime Plugin](https://github.com/ancor-dev/sublime-sql-snippets) for [vscode](https://marketplace.visualstudio.com/items?itemName=sadeghpm.sql-snippets)
 
 I just converted it ,all appreciate goes to [Anton Korniychuk](https://github.com/ancor-dev)
 
